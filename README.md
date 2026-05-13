@@ -28,8 +28,8 @@ I design and deploy robust infrastructure for AI systems, including:
 - **Policy‑constrained engines** that manage autonomous actions with audit trails, rollback guarantees, and governance oversight.  
 
 ## Links and Publications
-- Research Index – glemad.com/research-index  
+- Research Index – http://glemad.com/research-index  
 - Professional Site – glemad.com  
 - GitHub – github.com/thedavididris  
-- Key paper – “Autonomous Defense Transformers: Security-Native Reasoning for Digital Infrastructure” (under peer review)  
+- Key paper – “Autonomous Defense Transformers: Security-Native Reasoning for Digital Infrastructure” (https://zenodo.org/records/18878123)  
 - Ongoing work – Coordinated Defense Agents (CDA) for distributed security systems  
